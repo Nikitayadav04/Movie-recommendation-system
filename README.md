@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🎬 CineSense – Movie Recommendation System
 
-# Run and deploy your AI Studio app
+CineSense is a full-stack MERN-based Movie Recommendation System developed as a college major project. It provides users with personalized movie recommendations using content-based and collaborative filtering techniques.
 
-This contains everything you need to run your app locally.
+🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/1uu5eSsnd_mbXSLyuSWewQor9035e2X3c
+User Authentication (JWT)
 
-## Run Locally
+Browse & Search Movies
 
-**Prerequisites:**  Node.js
+Personalized Recommendations
 
+Watchlist & Watch History
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Ratings & Reviews
+
+Trending Movies
+
+Admin Dashboard (Movie & User Management)
+
+🛠 Tech Stack
+
+Frontend: React.js, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Auth: JWT, bcrypt
+
+⚙️ Setup
+cd backend && npm install && npm run dev
+cd frontend && npm install && npm start
