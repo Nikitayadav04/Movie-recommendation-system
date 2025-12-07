@@ -1,0 +1,5 @@
+{
+  "name": "CineSense",
+  "description": "Intelligent Movie Recommendation System with personalized suggestions, admin dashboard, and watchlist management.",
+  "requestFramePermissions": []
+}
