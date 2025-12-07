@@ -1,6 +1,6 @@
 🎬 CineSense – Movie Recommendation System
 
-CineSense is a full-stack MERN-based Movie Recommendation System developed as a college major project. It provides users with personalized movie recommendations using content-based and collaborative filtering techniques.
+CineSense is a  MERN-based Movie Recommendation System . It provides users with personalized movie recommendations using content-based and collaborative filtering techniques.
 
 🚀 Features
 
